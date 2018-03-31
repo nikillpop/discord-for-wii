@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<app version="v1.0">
+		<name>Discord</name>
+		<coder>Larsenv, Discord Inc.</coder>
+		<version>1.0</version>
+		<release_date>4/1/2018</release_date>
+		<short_description>Discord on your Wii!</short_description>
+		<long_description>This program will let you use Discord on your Wii.
+
+Features:
+
+- Point and Click - Use your Wii Remote to navigate Discord's interface, and use the + Button on your Wii Remote to right click.
+- USB Keyboard - What kind of messaging app won't let you use your keyboard! Plug in a USB Keyboard to type on Discord. You can also use the shortcut commands you can use on a computer!
+- Wii Speak - You can voice chat on Discord with a Wii Speak!
+- Rich Presence - Discord can show what games/homebrew/Channels you are using with a nice rich presence plugin!
+
+You need to have the Internet Channel installed to use Discord.</long_description>
+	</app>
